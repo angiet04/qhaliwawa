@@ -1,0 +1,12 @@
+pywt\_extensions\_cwt.cp311-win_amd64.pyd.p\pywt\_extensions\_cwt.pyx.c: \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\type.pxd \
+  pywt\_extensions\_cwt.pyx \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\stdio.pxd \
+  pywt\_extensions\_pywt.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\ref.pxd \
+  pywt\_extensions\_cwt.pxd \
+  pywt\_extensions\common.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\object.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\string.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\numpy\__init__.cython-30.pxd \
+  pywt\_extensions\config.pxi

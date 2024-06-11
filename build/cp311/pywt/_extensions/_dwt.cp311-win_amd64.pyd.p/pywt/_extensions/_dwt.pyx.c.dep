@@ -1,0 +1,12 @@
+pywt\_extensions\_dwt.cp311-win_amd64.pyd.p\pywt\_extensions\_dwt.pyx.c: \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\string.pxd \
+  pywt\_extensions\_dwt.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\ref.pxd \
+  pywt\_extensions\common.pxd \
+  pywt\_extensions\_dwt.pyx \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\numpy\__init__.cython-30.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\object.pxd \
+  pywt\_extensions\config.pxi \
+  pywt\_extensions\_pywt.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\stdio.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\type.pxd

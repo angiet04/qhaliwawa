@@ -1,0 +1,14 @@
+pywt\_extensions\_pywt.cp311-win_amd64.pyd.p\pywt\_extensions\_pywt.pyx.c: \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\type.pxd \
+  pywt\_extensions\_pywt.pxd \
+  pywt\_extensions\wavelets_list.pxi \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\object.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\numpy\__init__.cython-30.pxd \
+  pywt\_extensions\_cwt.pxd \
+  pywt\_extensions\config.pxi \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\math.pxd \
+  pywt\_extensions\_pywt.pyx \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\string.pxd \
+  pywt\_extensions\_dwt.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\libc\stdio.pxd \
+  C:\Users\Usuario\AppData\Local\Temp\pip-build-env-f56y74wv\overlay\Lib\site-packages\Cython\Includes\cpython\ref.pxd

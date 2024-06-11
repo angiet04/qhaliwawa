@@ -1,0 +1,8 @@
+[options]
+buildtype = release
+b_ndebug = if-release
+b_vscrt = md
+
+[properties]
+native_file = ['C:\\Users\\Usuario\\Downloads\\Aplicacion_Instru\\src\\pywavelets\\build\\cp311\\meson-python-native-file.ini']
+
